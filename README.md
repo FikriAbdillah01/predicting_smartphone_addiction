@@ -19,7 +19,7 @@ Tujuan utama dari topik ini adalah mendeteksi apakah seseorang sudah dalam tahap
 * academic_work_impact (object)
 * addicted_label (integer)
 
-## Preprocessing
+## Exploratory Data Analysis
 
 
 

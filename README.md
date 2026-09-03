@@ -4,7 +4,7 @@ Repository ini digunakan untuk mencatat apa saja yang ditemukan saat kompetisi k
 
 ## Goal & Dataset
 
-Tujuan utama dari topik ini adalah mendeteksi apakah seseorang sudah dalam tahap adiksi atau belum dengan menggunakan machine learning. Dataset di kompetisi tersebut terdiri train.csv, test.csv, dan sample_submission_csv. Data yang diolah dari train_csv terdiri dari 13 kolom dan 691369 indeks. Kolom tersebut terdiri dari:
+Tujuan utama dari topik ini adalah mendeteksi apakah seseorang sudah dalam tahap adiksi smartphone atau belum dengan menggunakan machine learning. Dataset di kompetisi tersebut terdiri `train.csv`, `test.csv`, dan `sample_submission_csv`. Data yang diolah dari train_csv terdiri dari 13 kolom dan 691369 indeks, sedangkan `test.csv` memiliki . Kolom tersebut terdiri dari:
 
 * age (float)
 * daily_screen_time_hours (float)
@@ -18,4 +18,8 @@ Tujuan utama dari topik ini adalah mendeteksi apakah seseorang sudah dalam tahap
 * stress_level (object)
 * academic_work_impact (object)
 * addicted_label (integer)
+
+## Preprocessing
+
+
 

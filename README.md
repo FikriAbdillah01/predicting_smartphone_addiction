@@ -1,6 +1,6 @@
 # Smartphone Addiction Prediction
 
-Repository ini digunakan untuk mencatat apa saja yang ditemukan saat kompetisi kaggle, predicting smartphone addiction, berlangsung. Kompetisi ini berlangsung pada 1 agustus hingga 31 agustus 2026. Tujuan dari kompetisi ini adalah melatih kemampuan machine learning seorang peserta dengan dataset sintetis. The submissions are evaluated on area under the ROC curve. Penulis berhasil menduduki posisi 1996/3532 dengan skor AUC 96.5% (setelah dua hari kompetisi). 
+Repository ini digunakan untuk mencatat apa saja yang ditemukan saat kompetisi kaggle, predicting smartphone addiction, berlangsung. Kompetisi ini berlangsung pada 1 agustus hingga 31 agustus 2026. Tujuan dari kompetisi ini adalah melatih kemampuan machine learning seorang peserta dengan dataset sintetis. The submissions are evaluated on area under the ROC curve. Penulis berhasil menduduki posisi 1996/3532 dengan skor AUC 96.5% (setelah dua hari kompetisi). Hasil analisis dari penulis dapat dilihat di [Kaggle](https://www.kaggle.com/code/fikriabdillah98/predicting-smartphone-addiction).
 
 ## Goal & Dataset
 

@@ -38,4 +38,8 @@ Deskripsi singkat pada setiap kolom dapat dilihat pada tabel bagian bawah
 
 * Tujuan dari kolom ini adalah mendeteksi skewness dari setiap kolom numerik pada dataset. Jika dilihat secara teliti, mean and median dari hampir semua kolom berdekatan dan dapat menjadi awal indikasi bahwa hampir semua fitur memiliki kurva distribusi normal. Namun, setelah melihat jarak selisih mean atau median terhadap nilai minimum dan maksimum, maka ada beberapa kolom yang terindikasi skewness, seperti `social_media_hours` and `work_study_hours`.
 
+<div style="text-align: center; margin: 20px auto; max-width: 500px;">
+  <img src="figures/spearman_corr(1).png" alt="spearman_correlation" style="width: 100%; border-radius: 4px;">
+  <p style="margin-top: 8px;"><em>Figure 1</em></p>
+</div>
 

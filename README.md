@@ -36,5 +36,4 @@ Deskripsi singkat pada setiap kolom dapat dilihat pada tabel bagian bawah
 | **app_opens_per_day** | 102.656216 | 104.00 | 48.186200 | 15.00 | 180.00 |
 | **weekend_screen_time** | 9.474575 | 9.58 | 2.858384 | 0.51 | 17.56 |
 
-
-
+* Tujuan dari kolom ini adalah mendeteksi skewness dari setiap kolom numerik pada dataset. Jika dilihat secara teliti, mean and median dari hampir semua kolom berdekatan dan dapat menjadi awal indikasi bahwa hampir semua fitur memiliki kurva distribusi normal. Namun, setelah melihat jarak selisih mean atau median terhadap nilai minimum dan maksimum, maka ada beberapa kolom yang terindikasi skewness, seperti ...

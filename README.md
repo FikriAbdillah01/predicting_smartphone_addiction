@@ -40,6 +40,7 @@ Deskripsi singkat pada setiap kolom dapat dilihat pada tabel bagian bawah
 
 <div style="text-align: center; margin: 20px auto; max-width: 500px;">
   <img src="figures/spearman_corr.png" alt="spearman_correlation" style="width: 100%; border-radius: 4px;">
-  <p style="margin-top: 8px;"><em>Figure 1</em></p>
+  <p style="margin-top: 8px;"><em>Figure 1: Spearman Correlation</em></p>
 </div>
 
+* Hasil dari analisis korelasi Spearman menunjukkan skor keterkaitan dengan kolom target `addicted_label`. Dari gambar diatas, 

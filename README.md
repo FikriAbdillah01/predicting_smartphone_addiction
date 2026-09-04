@@ -21,5 +21,20 @@ Tujuan utama dari topik ini adalah mendeteksi apakah seseorang sudah dalam tahap
 
 ## Exploratory Data Analysis
 
+Deskripsi singkat pada setiap kolom dapat dilihat pada tabel bagian bawah
+
+
+|  | mean | median | std | min | max |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **age** | 26.608689 | 27.00 | 5.153359 | 18.00 | 35.00 |
+| **daily_screen_time_hours** | 7.640771 | 7.77 | 2.725921 | 0.50 | 15.00 |
+| **social_media_hours** | 2.471224 | 2.32 | 1.318143 | 0.00 | 7.85 |
+| **gaming_hours** | 1.457668 | 1.33 | 0.934727 | 0.00 | 4.00 |
+| **work_study_hours** | 2.365962 | 2.20 | 1.257023 | 0.00 | 6.00 |
+| **sleep_hours** | 6.801704 | 6.80 | 1.236080 | 4.50 | 9.00 |
+| **notifications_per_day** | 145.748066 | 150.00 | 66.014554 | 20.00 | 250.00 |
+| **app_opens_per_day** | 102.656216 | 104.00 | 48.186200 | 15.00 | 180.00 |
+| **weekend_screen_time** | 9.474575 | 9.58 | 2.858384 | 0.51 | 17.56 |
+
 
 
